@@ -1,6 +1,6 @@
 {
   "name": "Dusit Automation",
-  "short_name": "DusitAuto",
+  "short_name": "Load Calculator",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#b30000",
